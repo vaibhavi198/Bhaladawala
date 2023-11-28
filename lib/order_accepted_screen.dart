@@ -44,6 +44,7 @@ class OrderAcceptedScreen extends StatelessWidget {
                       ))),
               Container(
                   margin: EdgeInsets.only(
+
                     top: MediaQuery.of(context).size.height * 0.02,
                     left: MediaQuery.of(context).size.height * 0.03,
                     right: MediaQuery.of(context).size.height * 0.03,
